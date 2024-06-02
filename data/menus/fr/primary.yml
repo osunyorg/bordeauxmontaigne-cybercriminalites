@@ -13,8 +13,4 @@ items:
   target: "/equipe/"
   kind: page
   children: []
-- title: Formations
-  target: "/formations/"
-  kind: page
-  children: []
 
