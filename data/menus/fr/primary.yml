@@ -13,4 +13,8 @@ items:
   target: "/equipe/"
   kind: page
   children: []
+- title: Le diplôme
+  target: "/formations/cybercriminalites-enjeux-et-defis-humains/"
+  kind: program
+  children: []
 
