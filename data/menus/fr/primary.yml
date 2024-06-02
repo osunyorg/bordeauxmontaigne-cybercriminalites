@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: Le diplôme d'université
+  target: "/formations/cybercriminalites-enjeux-et-defis-humains/"
+  kind: program
+  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -12,9 +16,5 @@ items:
 - title: Équipe
   target: "/equipe/"
   kind: page
-  children: []
-- title: Le diplôme d'université
-  target: "/formations/cybercriminalites-enjeux-et-defis-humains/"
-  kind: program
   children: []
 
