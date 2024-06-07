@@ -14,7 +14,7 @@ fr:
     diplomas: /diplomes/:slug/
     programs: /formations/:slug/
     persons: /equipe/:slug/
-    persons_categories: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
     administrators: /equipe/:slug/roles/
   taxonomies:
     administrator: administrators
