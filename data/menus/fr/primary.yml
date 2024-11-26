@@ -5,20 +5,25 @@ items:
   target: "/formations/cybercriminalites-enjeux-et-defis-humains/"
   kind: program
   children: []
+  file: content/fr/programs/cybercriminalites-enjeux-et-defis-humains/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 - title: Agenda
   target: "/agenda/"
   kind: page
   children: []
+  file: content/fr/events/_index.html
 - title: Équipe
   target: "/equipe/"
   kind: page
   children: []
+  file: content/fr/persons/_index.html
 - title: Candidater
   target: "/candidater/"
   kind: page
   children: []
+  file: content/fr/pages/candidater/_index.html
 
