@@ -2,6 +2,11 @@
 
 baseURL: https://www.cybercriminalites.fr
 
+## OSUNY
+osuny:
+  website:
+    id: 40bb8966-3057-4459-86bd-aa5cdc4f0a9a
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
