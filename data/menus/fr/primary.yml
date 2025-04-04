@@ -1,11 +1,13 @@
 ---
 title: Menu principal
 items:
-- title: Le diplôme d'université
-  target: https://www.iut.u-bordeaux-montaigne.fr/formation/offre-de-formation/cybercriminalites-enjeux-et-defis-humains/
-  kind: url
-  new_tab: true
+- title: Projet pédagogique
+  target: "/projet-pedagogique/"
+  kind: page
+  new_tab: false
   children: []
+  path: "/pages/projet-pedagogique"
+  file: content/fr/pages/projet-pedagogique/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
