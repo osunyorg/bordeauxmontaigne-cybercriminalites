@@ -8,11 +8,6 @@ items:
   children: []
   path: "/pages/projet-pedagogique"
   file: content/fr/pages/projet-pedagogique/_index.html
-- title: Numéros
-  target: ''
-  kind: blank
-  new_tab: false
-  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -20,13 +15,6 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Agenda
-  target: "/agenda/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/events"
-  file: content/fr/events/_index.html
 - title: Équipe
   target: "/equipe/"
   kind: page
