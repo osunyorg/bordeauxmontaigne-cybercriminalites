@@ -1,6 +1,18 @@
 ---
 title: Menu principal
 items:
+- title: Volumes
+  target: ''
+  kind: blank
+  new_tab: false
+  children:
+  - title: Volume 1 (2025)
+    target: "/volumes/2025-2025-volume-1/"
+    kind: volume
+    new_tab: false
+    children: []
+    path: "/volumes/2025-2025-volume-1"
+    file: content/fr/volumes/2025-2025-volume-1/_index.html
 - title: Projet pédagogique
   target: "/projet-pedagogique/"
   kind: page
