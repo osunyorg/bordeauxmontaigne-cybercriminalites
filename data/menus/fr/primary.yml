@@ -1,13 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Le diplôme d'université
-  target: "/formations/cybercriminalites-enjeux-et-defis-humains/"
-  kind: program
-  new_tab: false
-  children: []
-  path: "/programs/cybercriminalites-enjeux-et-defis-humains"
-  file: content/fr/programs/cybercriminalites-enjeux-et-defis-humains/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
