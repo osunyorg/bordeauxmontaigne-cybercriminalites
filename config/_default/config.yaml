@@ -1,14 +1,12 @@
 theme: osuny
-paginate: 18
-enableRobotsTXT: true
-removePathAccents: true
+_merge: deep
 params:
   breadcrumb:
     position: none
   summary:
     position: hero
   search:
-    active: false  
+    active: false
   logo:
     header: '/assets/images/logo-blanc.svg'
     footer: '/assets/images/logo-blanc.svg'
