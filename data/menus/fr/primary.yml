@@ -1,18 +1,13 @@
 ---
 title: Menu principal
 items:
-- title: Volumes
-  target: ''
-  kind: blank
+- title: Volume 1 (2025)
+  target: "/volumes/2025-2025-volume-1/"
+  kind: volume
   new_tab: false
-  children:
-  - title: Volume 1 (2025)
-    target: "/volumes/2025-2025-volume-1/"
-    kind: volume
-    new_tab: false
-    children: []
-    path: "/volumes/2025-2025-volume-1"
-    file: content/fr/volumes/2025-2025-volume-1/_index.html
+  children: []
+  path: "/volumes/2025-2025-volume-1"
+  file: content/fr/volumes/2025-2025-volume-1/_index.html
 - title: Projet pédagogique
   target: "/projet-pedagogique/"
   kind: page
@@ -20,13 +15,6 @@ items:
   children: []
   path: "/pages/projet-pedagogique"
   file: content/fr/pages/projet-pedagogique/_index.html
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
 - title: Équipe
   target: "/equipe/"
   kind: page
