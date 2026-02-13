@@ -2,24 +2,30 @@
 title: Menu principal
 items:
 - title: Volume 1 (2025)
+  slug: volume-1-2025
   target: "/volumes/2025-volume-1/"
   kind: volume
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/volumes/2025-volume-1"
   file: content/fr/volumes/2025-volume-1/_index.html
 - title: Projet pédagogique
+  slug: projet-pedagogique
   target: "/projet-pedagogique/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/projet-pedagogique"
   file: content/fr/pages/projet-pedagogique/_index.html
 - title: Équipe
+  slug: equipe
   target: "/equipe/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/fr/persons/_index.html
 
