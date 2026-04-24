@@ -15,10 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/agenda/cybercriminalites-enjeux-et-defis-humains/index.html"
+from = "/agenda/cybercriminalites-enjeux-et-defis-humains/"
 to = "/agenda/offre-de-formation/cybercriminalites-enjeux-et-defis-humains/"
 
 [[redirects]]
-from = "/volumes/2025-2025-volume-1/index.html"
+from = "/volumes/2025-2025-volume-1/"
 to = "/volumes/2025-volume-1/"
 
