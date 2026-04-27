@@ -13,3 +13,12 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/agenda/cybercriminalites-enjeux-et-defis-humains/index.html"
+to = "/agenda/offre-de-formation/cybercriminalites-enjeux-et-defis-humains/"
+
+[[redirects]]
+from = "/volumes/2025-2025-volume-1/index.html"
+to = "/volumes/2025-volume-1/"
+
